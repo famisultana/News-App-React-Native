@@ -54,19 +54,6 @@ export default data= [{
     },
     {
     "source": {
-        "id": id++,
-    "name": "The New York Times"
-    },
-    author: "Bill Bostock",
-    title: "Clashes Erupt in Hong Kong After Dueling Demonstrations - The New York Times",
-    "description": "The violence near Hong Kong’s border with the Chinese mainland came less than two weeks before a sensitive political anniversary.",
-    "url": "https://www.nytimes.com/2019/09/21/world/asia/hong-kong-protests.html",
-    "urlToImage": "https://static01.nyt.com/images/2019/09/21/world/21hongkong2/21hongkong2-facebookJumbo.jpg",
-    "publishedAt": "2019-09-21T10:51:00Z",
-    "content": "The antipathy toward those women reflects a widespread fear of the growing influence of mainland Chinese in Hong Kong, a former British colony that was handed back to Beijings control in 1997 under a one country, two systems arrangement that guaranteed it a h… [+865 chars]"
-    },
-    {
-    "source": {
     "id": id++,
     "name": "Youtube.com"
     },
@@ -116,19 +103,6 @@ export default data= [{
     "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1022113324%2F960x0.jpg",
     "publishedAt": "2019-09-21T05:33:00Z",
     "content": "According to the U.S. Food and Drug Administration (FDA), Torrent Pharmaceuticals Limited has expended its recall of blood pressure medications. (Photo: Getty Images)\r\nGetty\r\nYou may want an MBA. But you want to avoid NMBA. \r\nNMBA stands for N-Methylnitrosobu… [+5660 chars]"
-    },
-    {
-    "source": {
-    "id": id++,
-    "name": "CNN"
-    },
-    author: "Darran Simon, CNN\nEdited by Braden Goyette, CNN\nPhotographs by Allison V. Smith for CNN",
-    title: "How Botham Jean's mother is preparing to face the former police officer who killed her son - CNN",
-    "description": "Seven months after an off-duty Dallas police officer shot Allison Jean's son, Botham, dead in his apartment, her attorney called with a warning: the 911 call capturing Botham's last moments was going to be played on the evening news.",
-    "url": "https://www.cnn.com/2019/09/21/us/botham-jean-mother-amber-guyger-murder-trial/index.html",
-    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190920094802-01-botham-jean-mother-super-tease.jpg",
-    "publishedAt": "2019-09-21T04:53:00Z",
-    "content": "By Darran Simon, CNNEdited by Braden Goyette, CNNPhotographs by Allison V. Smith for CNN\r\nUpdated 12:53 AM ET, Sat September 21, 2019\r\nChat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.\r\n(CNN)Seven months after an off-du… [+9686 chars]"
     },
     {
     "source": {
